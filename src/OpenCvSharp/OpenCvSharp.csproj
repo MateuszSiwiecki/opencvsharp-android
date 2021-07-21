@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+<PropertyGroup>
+  <TargetFramework>netstandard2.0</TargetFramework>
+</PropertyGroup>
+<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+  <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+</PropertyGroup>
+<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+  <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+</PropertyGroup>
+<ItemGroup>
+  <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
+</ItemGroup>
+<ItemGroup>
+  <Folder Include="Properties\" />
+</ItemGroup>
+</Project>

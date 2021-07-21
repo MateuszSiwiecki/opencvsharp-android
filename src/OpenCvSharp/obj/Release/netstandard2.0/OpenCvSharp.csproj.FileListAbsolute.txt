@@ -1,0 +1,9 @@
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\bin\Release\netstandard2.0\OpenCvSharp.deps.json
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\bin\Release\netstandard2.0\OpenCvSharp.dll
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\bin\Release\netstandard2.0\OpenCvSharp.pdb
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\obj\Release\netstandard2.0\OpenCvSharp.AssemblyInfoInputs.cache
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\obj\Release\netstandard2.0\OpenCvSharp.AssemblyInfo.cs
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\obj\Release\netstandard2.0\OpenCvSharp.csproj.CoreCompileInputs.cache
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\obj\Release\netstandard2.0\OpenCvSharp.dll
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\obj\Release\netstandard2.0\OpenCvSharp.pdb
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\obj\Release\netstandard2.0\OpenCvSharp.csproj.AssemblyReference.cache

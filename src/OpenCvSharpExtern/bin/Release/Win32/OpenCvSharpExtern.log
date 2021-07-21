@@ -1,0 +1,54 @@
+﻿  aruco.cpp
+  bgsegm.cpp
+  calib3d.cpp
+  core.cpp
+  cuda.cpp
+  face.cpp
+  highgui.cpp
+  imgcodecs.cpp
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file imgcodecs.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file cuda.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file core.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file calib3d.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file bgsegm.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file aruco.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file face.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file highgui.cpp)
+  imgproc.cpp
+  ml.cpp
+  objdetect.cpp
+  flann.cpp
+  optflow.cpp
+  photo.cpp
+  shape.cpp
+  std_vector.cpp
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file shape.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file ml.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file imgproc.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file photo.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file flann.cpp)
+  features2d.cpp
+  stitching.cpp
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file optflow.cpp)
+  matchers.cpp
+  superres.cpp
+  tracking.cpp
+  video.cpp
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file objdetect.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file std_vector.cpp)
+  videoio.cpp
+  xfeatures2d.cpp
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file video.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file features2d.cpp)
+  ximgproc.cpp
+  xphoto.cpp
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file tracking.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file stitching.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\stitching\matchers.cpp(4,10): fatal error C1083: Cannot open include file: 'opencv2/stitching/detail/matchers.hpp': No such file or directory
+  tracking.h
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file superres.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file xphoto.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file videoio.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file xfeatures2d.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file ximgproc.cpp)
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharpExtern\include_opencv.h(12,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory (compiling source file tracking.h)

@@ -1,0 +1,5 @@
+﻿  ANDROID_HOME=D:\\Microsoft\AndroidSDK\25
+  ANT_HOME=D:\programowanie\visual studio\Apps\apache-ant-1.9.3
+  JAVA_HOME=C:\Program Files\Android\jdk\microsoft_dist_openjdk_1.8.0.25
+  NDK_ROOT=D:\\Microsoft\AndroidNDK64\android-ndk-r16b
+D:\repo\OpenCvSharp\src\OpenCvSharpExternDroid\OpenCvSharpExternDroid.vcxproj(274,5): error : This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is ..\..\..\..\packages\Xamarin.Forms.4.4.0.991640\build\Xamarin.Forms.props.

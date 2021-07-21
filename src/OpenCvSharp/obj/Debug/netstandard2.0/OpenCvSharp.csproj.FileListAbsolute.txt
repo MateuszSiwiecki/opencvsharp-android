@@ -1,0 +1,27 @@
+D:\repo\OpenCVXamarin\DocScanOpenCV\DocScanOpenCV\src\OpenCvSharp\bin\Debug\netstandard2.0\OpenCvSharp.deps.json
+D:\repo\OpenCVXamarin\DocScanOpenCV\DocScanOpenCV\src\OpenCvSharp\bin\Debug\netstandard2.0\OpenCvSharp.dll
+D:\repo\OpenCVXamarin\DocScanOpenCV\DocScanOpenCV\src\OpenCvSharp\bin\Debug\netstandard2.0\OpenCvSharp.pdb
+D:\repo\OpenCVXamarin\DocScanOpenCV\DocScanOpenCV\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.csproj.AssemblyReference.cache
+D:\repo\OpenCVXamarin\DocScanOpenCV\DocScanOpenCV\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.AssemblyInfoInputs.cache
+D:\repo\OpenCVXamarin\DocScanOpenCV\DocScanOpenCV\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.AssemblyInfo.cs
+D:\repo\OpenCVXamarin\DocScanOpenCV\DocScanOpenCV\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.csproj.CoreCompileInputs.cache
+D:\repo\OpenCVXamarin\DocScanOpenCV\DocScanOpenCV\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.dll
+D:\repo\OpenCVXamarin\DocScanOpenCV\DocScanOpenCV\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.pdb
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\bin\Debug\netstandard2.0\OpenCvSharp.deps.json
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\bin\Debug\netstandard2.0\OpenCvSharp.dll
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\bin\Debug\netstandard2.0\OpenCvSharp.pdb
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.csproj.AssemblyReference.cache
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.AssemblyInfoInputs.cache
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.AssemblyInfo.cs
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.csproj.CoreCompileInputs.cache
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.dll
+D:\repo\archiwizator\Archiwizator\OpenCvSharp\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.pdb
+D:\repo\Book Reader\BookReader\OpenCvSharp\src\OpenCvSharp\bin\Debug\netstandard2.0\OpenCvSharp.deps.json
+D:\repo\Book Reader\BookReader\OpenCvSharp\src\OpenCvSharp\bin\Debug\netstandard2.0\OpenCvSharp.dll
+D:\repo\Book Reader\BookReader\OpenCvSharp\src\OpenCvSharp\bin\Debug\netstandard2.0\OpenCvSharp.pdb
+D:\repo\Book Reader\BookReader\OpenCvSharp\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.csproj.AssemblyReference.cache
+D:\repo\Book Reader\BookReader\OpenCvSharp\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.AssemblyInfoInputs.cache
+D:\repo\Book Reader\BookReader\OpenCvSharp\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.AssemblyInfo.cs
+D:\repo\Book Reader\BookReader\OpenCvSharp\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.csproj.CoreCompileInputs.cache
+D:\repo\Book Reader\BookReader\OpenCvSharp\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.dll
+D:\repo\Book Reader\BookReader\OpenCvSharp\src\OpenCvSharp\obj\Debug\netstandard2.0\OpenCvSharp.pdb

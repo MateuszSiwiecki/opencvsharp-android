@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "pw2UFM0SetfbohRLMRAzVpPY/HgUgao5/KFs3aUtkcOr9QUhRrv4hU6Kl5nSv8+nybQOCWxZMOUzZ115jvS1eg==",
+  "success": false,
+  "projectFilePath": "D:\\repo\\OpenCvSharp\\src\\OpenCvSharp.Extensions\\OpenCvSharp.Extensions.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OpenCvSharp is not compatible with net46 (.NETFramework,Version=v4.6). Project OpenCvSharp supports: netstandard2.0 (.NETStandard,Version=v2.0)",
+      "libraryId": "OpenCvSharp",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OpenCvSharp is not compatible with net40 (.NETFramework,Version=v4.0). Project OpenCvSharp supports: netstandard2.0 (.NETStandard,Version=v2.0)",
+      "libraryId": "OpenCvSharp",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0"
+      ]
+    }
+  ]
+}
